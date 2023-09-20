@@ -8,7 +8,12 @@ Complete the assignment located at homework/part1/CloudThon_homework_1.pynb
 
 ### Part 2
 
+- Steps
+    1. Replicate the application shown at session 6 which is a Dash application deployed to app engine.
 
+    1. Add control to select the region to apply to the dataframe filtering based on the data.
+
+    1. Send an email to ecsa@gft.com with the evidence related to creation, deployment and the application execution.
 
 ## Install gcloud SDK
 
