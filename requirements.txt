@@ -22,4 +22,6 @@ google-cloud-core
 google-cloud-storage
 google-resumable-media
 googleapis-common-protos
+google-cloud-bigquery
+db-dtypes
 prophet

@@ -1,4 +1,14 @@
-#  Cloudthon 6
+#  Cloudthon  1st Season 6th episode
+
+## Homework
+
+### Part 1
+
+Complete the assignment located at homework/part1/CloudThon_homework_1.pynb
+
+### Part 2
+
+
 
 ## Install gcloud SDK
 
