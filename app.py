@@ -9,7 +9,7 @@ app = Dash(__name__, external_stylesheets=external_stylesheets)
 server = app.server
 
 app.layout = html.Div([
-    html.H1('Hello World'),
+    html.H1('My dashboard'),
     dcc.Dropdown(['LA', 'NYC', 'MTL'],
         'LA',
         id='dropdown'
@@ -22,4 +22,4 @@ def display_value(value):
     return f'You have selected {value}'
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5000)
+    app.run_server(host='0.0.0.0', debug=True, port=5000)
